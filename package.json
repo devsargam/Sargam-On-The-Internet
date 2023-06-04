@@ -1,7 +1,8 @@
 {
-  "name": "enhanced-me",
-  "version": "0.1.0",
+  "name": "sargam-on-the-internet",
+  "version": "0.0.1",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
