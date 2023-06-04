@@ -14,10 +14,10 @@ function Intro() {
       <h1 className="text-4xl font-bold text-center text-white underline decoration-white decoration-2 md:text-8xl sm:text-6xl">
         <Link href="/">Sargam</Link> On The Internet
       </h1>
-      <div className="container p-5 font-mono sm:pt-20 sm:px-20">
-        <span className="py-5 text-lg text-green-300 sm:text-2xl">
-          Hi, I'm Sargam Poudel.
-        </span>
+      <div className="container font-mono sm:pt-20">
+        <div className="py-5 mt-5 text-lg text-green-300 sm:text-2xl">
+          Hi, I'm Sargam Poudel. 👋
+        </div>
         <ul className="mt-5 text-white">
           {myInfo.map((info, index) => (
             <li className="py-2 sm:py-3" key={index}>
