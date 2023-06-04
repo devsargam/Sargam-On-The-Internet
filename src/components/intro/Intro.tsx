@@ -16,7 +16,7 @@ function Intro() {
       </h1>
       <div className="container font-mono sm:pt-20">
         <div className="py-5 mt-5 text-lg text-green-300 sm:text-2xl">
-          Hi, I'm Sargam Poudel. 👋
+          Hi, I&apos;m Sargam Poudel. 👋
         </div>
         <ul className="mt-5 text-white">
           {myInfo.map((info, index) => (
