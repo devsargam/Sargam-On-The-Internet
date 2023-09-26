@@ -1,3 +1,3 @@
-import AboutYou from "./AboutYou";
+import AboutYou from './AboutYou';
 
 export default AboutYou;
