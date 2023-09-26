@@ -1,12 +1,12 @@
-import Link from "next/link";
-import React from "react";
+import Link from 'next/link';
+import React from 'react';
 
 function Intro() {
   const myInfo = [
-    "I am a Computer Engineering student 👨‍🎓",
-    "I am a full stack developer 👨‍💻 from Nepal 🇳🇵",
-    "I am interested in web 🌏 & cyber security 🔐",
-    "I mostly work with React, tailwind, Next, Express, Prisma & Nest 🛠️",
+    'I am a Computer Engineering student 👨‍🎓',
+    'I am a full stack developer 👨‍💻 from Nepal 🇳🇵',
+    'I am interested in web 🌏 & cyber security 🔐',
+    'I mostly work with React, tailwind, Next, Express, Prisma & Nest 🛠️',
   ];
 
   return (

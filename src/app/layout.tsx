@@ -1,10 +1,10 @@
-import "./globals.css";
-import { Inter } from "next/font/google";
+import './globals.css';
+import { Inter } from 'next/font/google';
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: "Sargam On The Internet",
+  title: 'Sargam On The Internet',
   description: "Sargam's personal website",
 };
 

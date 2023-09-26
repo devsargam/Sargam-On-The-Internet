@@ -1,6 +1,6 @@
-import Aboutme from "@/components/aboutme";
-import Intro from "@/components/intro/";
-import Resume from "@/components/resume";
+import Aboutme from '@/components/aboutme';
+import Intro from '@/components/intro/';
+import Resume from '@/components/resume';
 
 export default function Home(): JSX.Element {
   return (

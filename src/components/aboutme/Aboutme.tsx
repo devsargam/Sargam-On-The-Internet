@@ -1,14 +1,14 @@
-import React from "react";
+import React from 'react';
 
 function Aboutme() {
   const about = [
-    "started writing code ~3 years ago",
-    "grew up in south-eastern part of Nepal in Jhapa district",
-    "went to high school in Kathmandu, Nepal",
+    'started writing code ~3 years ago',
+    'grew up in south-eastern part of Nepal in Jhapa district',
+    'went to high school in Kathmandu, Nepal',
     "am currently pursuing my bachelor's degree in Computer Engineering",
-    "currently live in my university hostel in Bangalore, India",
-    "can speak Nepali, Hindi & English, के तपाई नेपालीमा बोल्न सक्नुहुन्छ?",
-    "only pay interest to those who understand computers",
+    'currently live in my university hostel in Bangalore, India',
+    'can speak Nepali, Hindi & English, के तपाई नेपालीमा बोल्न सक्नुहुन्छ?',
+    'only pay interest to those who understand computers',
     'am a "Jack of all trades, master of none" but maybe one day I might master one',
   ];
 
