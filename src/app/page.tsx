@@ -1,4 +1,5 @@
 import Aboutme from '@/components/aboutme';
+import AboutYou from '@/components/aboutyou';
 import Intro from '@/components/intro/';
 import Resume from '@/components/resume';
 
@@ -9,6 +10,7 @@ export default function Home(): JSX.Element {
         <Intro />
         <Resume />
         <Aboutme />
+        <AboutYou />
       </div>
     </main>
   );
